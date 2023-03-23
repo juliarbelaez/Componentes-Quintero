@@ -1,0 +1,10 @@
+.container {
+  display: flex;
+  align-items: row;
+  justify-content: space-between;
+  padding: 40px;
+}
+.card {
+  background-color: #d9d9d9;
+  justify-content: space-around;
+}
